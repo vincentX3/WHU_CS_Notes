@@ -8,4 +8,5 @@
 5. [调度与死锁](4schedule_and_deadlock.md)
 6. [存储器管理](5memory_arrangement.md)
 7. [虚拟存储器](6virtual_memory.md)
-8. [文件管理](7device_management.md)
+8. [设备管理](7device_management.md)
+9. [文件管理](8File_mangament.md)
