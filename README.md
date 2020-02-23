@@ -20,7 +20,7 @@ _Vincent X3_
 - [OOSE 面向对象分析与设计](./cs/OOSE)
 课本chapter1-7 导图整理
 > reference: 《面向对象分析与设计》（第2版） 麻子志毅 编著 ； 马老师个人课件
-- [算法设计余分析](./cs/algorithm/algorithm_course_review .pdf)
+- [算法设计与分析](./cs/algorithm/algorithm_course_review.pdf)
 期末复习笔记
 > reference：《算法设计与分析》（第2版） 李春葆主编
 
